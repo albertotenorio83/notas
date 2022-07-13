@@ -1,2 +1,2 @@
 # Notas
-Notas del curso de Python
+Notas del curso
